@@ -11,3 +11,5 @@ Created for homework
 #### 4 [Тестовый прогон](https://github.com/AmbaryanArt/mobile-/blob/main/Test%20cases%20run%20for%20a%20mobile%20application.pdf)
 
 #### 5 [Отчет по результатам тестирования ](https://github.com/AmbaryanArt/mobile-/blob/main/Test%20results%20report.pdf)
+
+#### 6 [Работа с прокси. Charles Proxy ](https://github.com/AmbaryanArt/mobile-/blob/main/charles%20proxy%20Iphone.mp4)
